@@ -4,7 +4,7 @@ Manipulate JcInk's default /index.php?act=Members.
 
 ## Installation
 
-Download and host a copy of [memberlist.min.js](./src/js/memberlist.min.js) and place it before the closing body tag (`</body>`) of your Board Wrapper.
+Download and host a copy of [memberlist.min.js](https://raw.githubusercontent.com/jessikuh/jcink-custom-member-list/master/src/js/memberlist.min.js), and place it before the closing body tag (`</body>`) of your Board Wrapper.
 
 ```html
 <script src="/memberlist.min.js"></script>
